@@ -5,7 +5,7 @@ public:
         if(j > n-1 || i > m-1) return 0;
         if(grid[i][j] == 1) return 0;
         if(j == n-1 && i == m-1) return 1;
-        if(dp[i][j] != 0){
+        if(dp[i][j] != -1){
             return dp[i][j];
         }
         return dp[i][j] = findPath(m,n,grid,dp,i + 1,j) + 
@@ -26,7 +26,7 @@ public:
             }
             return 1;
         }
-        vector<vector<int>> dp(m,vector(n,0));
+        vector<vector<int>> dp(m,vector(n,-1));
         findPath(m,n,grid,dp,0,0);
         return dp[0][0];
     }
