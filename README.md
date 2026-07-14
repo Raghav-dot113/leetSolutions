@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Raghav-dot113/leetSolutions/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Raghav-dot113/leetSolutions/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Raghav-dot113/leetSolutions/tree/master/0063-unique-paths-ii) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Raghav-dot113/leetSolutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Greedy
 |  |
 | ------- |
@@ -27,10 +28,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Raghav-dot113/leetSolutions/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/Raghav-dot113/leetSolutions/tree/master/0063-unique-paths-ii) |
 | [0766-toeplitz-matrix](https://github.com/Raghav-dot113/leetSolutions/tree/master/0766-toeplitz-matrix) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Raghav-dot113/leetSolutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Math
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Raghav-dot113/leetSolutions/tree/master/0062-unique-paths) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Raghav-dot113/leetSolutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Combinatorics
 |  |
 | ------- |
@@ -44,4 +47,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/Raghav-dot113/leetSolutions/tree/master/1291-sequential-digits) |
+## Number Theory
+|  |
+| ------- |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Raghav-dot113/leetSolutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 <!---LeetCode Topics End-->
