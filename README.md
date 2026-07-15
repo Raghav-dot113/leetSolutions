@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/Raghav-dot113/leetSolutions/tree/master/0062-unique-paths) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Raghav-dot113/leetSolutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/Raghav-dot113/leetSolutions/tree/master/1512-number-of-good-pairs) |
+| [2235-add-two-integers](https://github.com/Raghav-dot113/leetSolutions/tree/master/2235-add-two-integers) |
 | [2469-convert-the-temperature](https://github.com/Raghav-dot113/leetSolutions/tree/master/2469-convert-the-temperature) |
 | [2652-sum-multiples](https://github.com/Raghav-dot113/leetSolutions/tree/master/2652-sum-multiples) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Raghav-dot113/leetSolutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
