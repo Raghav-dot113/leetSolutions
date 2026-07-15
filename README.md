@@ -53,4 +53,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Raghav-dot113/leetSolutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Raghav-dot113/leetSolutions/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Stack
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/Raghav-dot113/leetSolutions/tree/master/0155-min-stack) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/Raghav-dot113/leetSolutions/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
