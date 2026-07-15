@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0044-wildcard-matching](https://github.com/Raghav-dot113/leetSolutions/tree/master/0044-wildcard-matching) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Raghav-dot113/leetSolutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/Raghav-dot113/leetSolutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/Raghav-dot113/leetSolutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Raghav-dot113/leetSolutions/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Raghav-dot113/leetSolutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/Raghav-dot113/leetSolutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Raghav-dot113/leetSolutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Math
 |  |
