@@ -3,8 +3,7 @@ class Solution {
         int x = 0;
         int n = ops.length;
         for(int i = 0;i<n;i++){
-            if(ops[i].equals("X++")
-                || ops[i].equals("++X")) x++;
+            if(ops[i].charAt(1) == '+') x++;
             else x--;
         }
         return x;
