@@ -4,12 +4,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Raghav-dot113/leetSolutions/tree/master/0022-generate-parentheses) |
 | [0044-wildcard-matching](https://github.com/Raghav-dot113/leetSolutions/tree/master/0044-wildcard-matching) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Raghav-dot113/leetSolutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Raghav-dot113/leetSolutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Raghav-dot113/leetSolutions/tree/master/0022-generate-parentheses) |
 | [0044-wildcard-matching](https://github.com/Raghav-dot113/leetSolutions/tree/master/0044-wildcard-matching) |
 | [0055-jump-game](https://github.com/Raghav-dot113/leetSolutions/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Raghav-dot113/leetSolutions/tree/master/0062-unique-paths) |
@@ -120,4 +122,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Raghav-dot113/leetSolutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Raghav-dot113/leetSolutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Raghav-dot113/leetSolutions/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
