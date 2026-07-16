@@ -7,7 +7,7 @@ public:
         return;
     }
 
-    for (int i = 0; i <= cur.size(); i++) {
+    for (int i = 0; i < cur.size(); i++) {
     string next = cur;
     next.insert(i, "()");
     dfs(next, remaining - 1);
