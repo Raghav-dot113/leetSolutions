@@ -8,7 +8,6 @@ public:
         for (int x : nums)
             freq[x]++;
 
-        // exact[g] = number of pairs whose gcd is exactly g
         vector<long long> exact(mx + 1, 0);
 
         for (int g = mx; g >= 1; g--) {
@@ -19,26 +18,36 @@ public:
             for (int multiple = g; multiple <= mx; multiple += g)
                 cnt += freq[multiple];
 
-            // Total pairs divisible by g
-            exact[g] = cnt * (cnt - 1) / 2;
-
-            // Remove pairs having gcd = 2g, 3g, ...
-            for (int multiple = 2 * g; multiple <= mx; multiple += g)
+            exact[g] = cnt * (cnt - 1) / 2;            for (int multiple = 2 * g; multiple <= mx; multiple += g)
                 exact[g] -= exact[multiple];
         }
-
-        // Prefix counts
+ 
         vector<long long> prefix(mx + 1, 0);
         for (int i = 1; i <= mx; i++)
             prefix[i] = prefix[i - 1] + exact[i];
 
-        vector<int> ans;
+        vector<int> answer;
 
         for (long long q : queries) {
-            int g = lower_bound(prefix.begin() + 1, prefix.end(), q + 1) - prefix.begin();
-            ans.push_back(g);
-        }
+    long long target = q + 1;   // queries are 0-indexed
 
-        return ans;
+    int low = 1;
+    int high = mx;
+    int ans = mx;
+
+    while (low <= high) {
+        int mid = low + (high - low) / 2;
+
+        if (prefix[mid] >= target) {
+            ans = mid;
+            high = mid - 1;
+        } else {
+            low = mid + 1;
+        }
+    }
+
+    answer.push_back(ans);
+}
+        return answer;
     }
 };
