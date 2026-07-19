@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Raghav-dot113/leetSolutions/tree/master/0022-generate-parentheses) |
 | [0044-wildcard-matching](https://github.com/Raghav-dot113/leetSolutions/tree/master/0044-wildcard-matching) |
+| [0065-valid-number](https://github.com/Raghav-dot113/leetSolutions/tree/master/0065-valid-number) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Raghav-dot113/leetSolutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Raghav-dot113/leetSolutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Raghav-dot113/leetSolutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
