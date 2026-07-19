@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Raghav-dot113/leetSolutions/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Raghav-dot113/leetSolutions/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Raghav-dot113/leetSolutions/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/Raghav-dot113/leetSolutions/tree/master/0064-minimum-path-sum) |
 | [0213-house-robber-ii](https://github.com/Raghav-dot113/leetSolutions/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/Raghav-dot113/leetSolutions/tree/master/0322-coin-change) |
 | [0746-min-cost-climbing-stairs](https://github.com/Raghav-dot113/leetSolutions/tree/master/0746-min-cost-climbing-stairs) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Raghav-dot113/leetSolutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Raghav-dot113/leetSolutions/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/Raghav-dot113/leetSolutions/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/Raghav-dot113/leetSolutions/tree/master/0064-minimum-path-sum) |
 | [0213-house-robber-ii](https://github.com/Raghav-dot113/leetSolutions/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/Raghav-dot113/leetSolutions/tree/master/0322-coin-change) |
 | [0746-min-cost-climbing-stairs](https://github.com/Raghav-dot113/leetSolutions/tree/master/0746-min-cost-climbing-stairs) |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/Raghav-dot113/leetSolutions/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/Raghav-dot113/leetSolutions/tree/master/0064-minimum-path-sum) |
 | [0766-toeplitz-matrix](https://github.com/Raghav-dot113/leetSolutions/tree/master/0766-toeplitz-matrix) |
 | [1672-richest-customer-wealth](https://github.com/Raghav-dot113/leetSolutions/tree/master/1672-richest-customer-wealth) |
 ## Enumeration
