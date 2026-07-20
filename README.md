@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Raghav-dot113/leetSolutions/tree/master/0322-coin-change) |
 | [0746-min-cost-climbing-stairs](https://github.com/Raghav-dot113/leetSolutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0766-toeplitz-matrix](https://github.com/Raghav-dot113/leetSolutions/tree/master/0766-toeplitz-matrix) |
+| [1260-shift-2d-grid](https://github.com/Raghav-dot113/leetSolutions/tree/master/1260-shift-2d-grid) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Raghav-dot113/leetSolutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Raghav-dot113/leetSolutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/Raghav-dot113/leetSolutions/tree/master/1470-shuffle-the-array) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/Raghav-dot113/leetSolutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Raghav-dot113/leetSolutions/tree/master/0064-minimum-path-sum) |
 | [0766-toeplitz-matrix](https://github.com/Raghav-dot113/leetSolutions/tree/master/0766-toeplitz-matrix) |
+| [1260-shift-2d-grid](https://github.com/Raghav-dot113/leetSolutions/tree/master/1260-shift-2d-grid) |
 | [1672-richest-customer-wealth](https://github.com/Raghav-dot113/leetSolutions/tree/master/1672-richest-customer-wealth) |
 ## Enumeration
 |  |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/Raghav-dot113/leetSolutions/tree/master/1260-shift-2d-grid) |
 | [1920-build-array-from-permutation](https://github.com/Raghav-dot113/leetSolutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Raghav-dot113/leetSolutions/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Raghav-dot113/leetSolutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
