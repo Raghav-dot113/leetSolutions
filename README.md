@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/Raghav-dot113/leetSolutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Raghav-dot113/leetSolutions/tree/master/0064-minimum-path-sum) |
 | [0213-house-robber-ii](https://github.com/Raghav-dot113/leetSolutions/tree/master/0213-house-robber-ii) |
+| [0268-missing-number](https://github.com/Raghav-dot113/leetSolutions/tree/master/0268-missing-number) |
 | [0322-coin-change](https://github.com/Raghav-dot113/leetSolutions/tree/master/0322-coin-change) |
 | [0746-min-cost-climbing-stairs](https://github.com/Raghav-dot113/leetSolutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0766-toeplitz-matrix](https://github.com/Raghav-dot113/leetSolutions/tree/master/0766-toeplitz-matrix) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Raghav-dot113/leetSolutions/tree/master/0062-unique-paths) |
+| [0268-missing-number](https://github.com/Raghav-dot113/leetSolutions/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/Raghav-dot113/leetSolutions/tree/master/0371-sum-of-two-integers) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Raghav-dot113/leetSolutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/Raghav-dot113/leetSolutions/tree/master/1512-number-of-good-pairs) |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Raghav-dot113/leetSolutions/tree/master/0268-missing-number) |
 | [1512-number-of-good-pairs](https://github.com/Raghav-dot113/leetSolutions/tree/master/1512-number-of-good-pairs) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Raghav-dot113/leetSolutions/tree/master/3312-sorted-gcd-pair-queries) |
 ## Counting
@@ -149,12 +152,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Raghav-dot113/leetSolutions/tree/master/0268-missing-number) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Raghav-dot113/leetSolutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Raghav-dot113/leetSolutions/tree/master/3312-sorted-gcd-pair-queries) |
 ## Sorting
 |  |
 | ------- |
 | [0147-insertion-sort-list](https://github.com/Raghav-dot113/leetSolutions/tree/master/0147-insertion-sort-list) |
+| [0268-missing-number](https://github.com/Raghav-dot113/leetSolutions/tree/master/0268-missing-number) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Raghav-dot113/leetSolutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Raghav-dot113/leetSolutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Backtracking
@@ -197,5 +202,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Raghav-dot113/leetSolutions/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/Raghav-dot113/leetSolutions/tree/master/0371-sum-of-two-integers) |
 <!---LeetCode Topics End-->
