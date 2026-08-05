@@ -1,18 +1,18 @@
 class Solution {
 public:
-    int bits(int n){
-        int count = 0;
-        while(n > 0){
-            if(n % 2 == 1) count++;
-            n /= 2;
-        }
-        return count;
-    }
     vector<int> countBits(int n) {
-        vector<int> ans(n+1);
-        for(int i = 0;i<=n;i++){
-            ans[i] = bits(i);
+        vector<int> result(n + 1, 0);
+        for (int i = 0; i < n + 1; ++i)
+        {
+            int num = i;
+            int count = 0;
+            while (num)
+            {
+                count += (num & 1 ? 1 : 0);
+                num = num >> 1;
+            }
+            result[i] = count;
         }
-        return ans;
+        return result;
     }
 };
