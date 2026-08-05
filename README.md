@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Raghav-dot113/leetSolutions/tree/master/0064-minimum-path-sum) |
 | [0213-house-robber-ii](https://github.com/Raghav-dot113/leetSolutions/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/Raghav-dot113/leetSolutions/tree/master/0322-coin-change) |
+| [0338-counting-bits](https://github.com/Raghav-dot113/leetSolutions/tree/master/0338-counting-bits) |
 | [0746-min-cost-climbing-stairs](https://github.com/Raghav-dot113/leetSolutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Raghav-dot113/leetSolutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Raghav-dot113/leetSolutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -211,5 +212,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Raghav-dot113/leetSolutions/tree/master/0268-missing-number) |
+| [0338-counting-bits](https://github.com/Raghav-dot113/leetSolutions/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/Raghav-dot113/leetSolutions/tree/master/0371-sum-of-two-integers) |
 <!---LeetCode Topics End-->
