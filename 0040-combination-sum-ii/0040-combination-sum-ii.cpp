@@ -1,7 +1,7 @@
 class Solution {
 public:
-    void f(vector<int>& nums, int tar, int idx, vector<int>& curr,
-            vector<vector<int>>& ans) {
+    void f(vector<int>& nums, int tar, int idx,
+           vector<int>& curr, vector<vector<int>>& ans) {
 
         if(tar == 0) {
             ans.push_back(curr);
@@ -12,24 +12,20 @@ public:
             return;
         }
 
-        for(int i = idx; i < nums.size(); i++) {
+        curr.push_back(nums[idx]);
+        f(nums, tar - nums[idx], idx + 1, curr, ans);
 
-            if(i > idx && nums[i] == nums[i - 1])
-                continue;
+        curr.pop_back();
 
-            if(nums[i] > tar)
-                break;
-
-            curr.push_back(nums[i]);
-
-            f(nums, tar - nums[i], i + 1, curr, ans);
-
-            curr.pop_back();
+        int next = idx + 1;
+        while(next < nums.size() && nums[next] == nums[idx]) {
+            next++;
         }
+
+        f(nums, tar, next, curr, ans);
     }
 
     vector<vector<int>> combinationSum2(vector<int>& nums, int tar) {
-
         sort(nums.begin(), nums.end());
 
         vector<vector<int>> ans;
