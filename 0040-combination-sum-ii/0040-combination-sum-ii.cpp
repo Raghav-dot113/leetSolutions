@@ -14,11 +14,9 @@ public:
 
         for(int i = idx; i < nums.size(); i++) {
 
-            // Skip duplicate choices at this level
             if(i > idx && nums[i] == nums[i - 1])
                 continue;
 
-            // Since sorted, no later value can work
             if(nums[i] > tar)
                 break;
 
