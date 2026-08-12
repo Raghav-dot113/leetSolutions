@@ -6,18 +6,18 @@ public:
 
         unordered_map<int,int> m;
 
-        while(l < size && r < size){
-            m[nums[i]]++;
+       while(l < size && r < size) {
+            m[nums[r]]++;
 
-            if(m[nums[i]] <= k){
-                maxSize = max(maxSize,r-l+1);
-            }else{
-                while(m[nums[r]] > k){
-                    m[nums[l]]--;l++;
+            if(m[nums[r]] <= k) {
+                maxSize = max(maxSize, r - l + 1);
+            } else {
+                while(m[nums[r]] > k) {
+                    m[nums[l]]--;
+                    l++;
                 }
             }
             r++;
-            i = r;
         }
         return maxSize;
     }
