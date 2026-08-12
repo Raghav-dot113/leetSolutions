@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Raghav-dot113/leetSolutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Raghav-dot113/leetSolutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Raghav-dot113/leetSolutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Raghav-dot113/leetSolutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Raghav-dot113/leetSolutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Raghav-dot113/leetSolutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Raghav-dot113/leetSolutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/Raghav-dot113/leetSolutions/tree/master/0268-missing-number) |
 | [1512-number-of-good-pairs](https://github.com/Raghav-dot113/leetSolutions/tree/master/1512-number-of-good-pairs) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Raghav-dot113/leetSolutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Raghav-dot113/leetSolutions/tree/master/3312-sorted-gcd-pair-queries) |
 ## Counting
 |  |
@@ -224,4 +226,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Raghav-dot113/leetSolutions/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/Raghav-dot113/leetSolutions/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/Raghav-dot113/leetSolutions/tree/master/0371-sum-of-two-integers) |
+## Sliding Window
+|  |
+| ------- |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Raghav-dot113/leetSolutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 <!---LeetCode Topics End-->
