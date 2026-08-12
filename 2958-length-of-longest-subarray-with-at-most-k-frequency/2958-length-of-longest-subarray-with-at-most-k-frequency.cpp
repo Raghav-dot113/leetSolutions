@@ -7,7 +7,6 @@ public:
         unordered_map<int,int> m;
 
         while(l < size && r < size){
-            if(m.find(nums[i]) == m.end()) m[nums[i]] = 0;
             m[nums[i]]++;
 
             if(m[nums[i]] <= k){
