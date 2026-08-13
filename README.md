@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Raghav-dot113/leetSolutions/tree/master/0064-minimum-path-sum) |
 | [0213-house-robber-ii](https://github.com/Raghav-dot113/leetSolutions/tree/master/0213-house-robber-ii) |
 | [0268-missing-number](https://github.com/Raghav-dot113/leetSolutions/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Raghav-dot113/leetSolutions/tree/master/0287-find-the-duplicate-number) |
 | [0322-coin-change](https://github.com/Raghav-dot113/leetSolutions/tree/master/0322-coin-change) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Raghav-dot113/leetSolutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0746-min-cost-climbing-stairs](https://github.com/Raghav-dot113/leetSolutions/tree/master/0746-min-cost-climbing-stairs) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0086-partition-list](https://github.com/Raghav-dot113/leetSolutions/tree/master/0086-partition-list) |
+| [0287-find-the-duplicate-number](https://github.com/Raghav-dot113/leetSolutions/tree/master/0287-find-the-duplicate-number) |
 | [0392-is-subsequence](https://github.com/Raghav-dot113/leetSolutions/tree/master/0392-is-subsequence) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Raghav-dot113/leetSolutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Raghav-dot113/leetSolutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Raghav-dot113/leetSolutions/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Raghav-dot113/leetSolutions/tree/master/0287-find-the-duplicate-number) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Raghav-dot113/leetSolutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Raghav-dot113/leetSolutions/tree/master/3312-sorted-gcd-pair-queries) |
 ## Sorting
@@ -224,10 +227,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Raghav-dot113/leetSolutions/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Raghav-dot113/leetSolutions/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/Raghav-dot113/leetSolutions/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/Raghav-dot113/leetSolutions/tree/master/0371-sum-of-two-integers) |
 ## Sliding Window
 |  |
 | ------- |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Raghav-dot113/leetSolutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Raghav-dot113/leetSolutions/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Raghav-dot113/leetSolutions/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
