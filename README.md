@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Raghav-dot113/leetSolutions/tree/master/0022-generate-parentheses) |
 | [0044-wildcard-matching](https://github.com/Raghav-dot113/leetSolutions/tree/master/0044-wildcard-matching) |
 | [0065-valid-number](https://github.com/Raghav-dot113/leetSolutions/tree/master/0065-valid-number) |
+| [0076-minimum-window-substring](https://github.com/Raghav-dot113/leetSolutions/tree/master/0076-minimum-window-substring) |
 | [0392-is-subsequence](https://github.com/Raghav-dot113/leetSolutions/tree/master/0392-is-subsequence) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Raghav-dot113/leetSolutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Raghav-dot113/leetSolutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/Raghav-dot113/leetSolutions/tree/master/0076-minimum-window-substring) |
 | [0268-missing-number](https://github.com/Raghav-dot113/leetSolutions/tree/master/0268-missing-number) |
 | [1512-number-of-good-pairs](https://github.com/Raghav-dot113/leetSolutions/tree/master/1512-number-of-good-pairs) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Raghav-dot113/leetSolutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/Raghav-dot113/leetSolutions/tree/master/0076-minimum-window-substring) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Raghav-dot113/leetSolutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Raghav-dot113/leetSolutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Pigeonhole Principle
