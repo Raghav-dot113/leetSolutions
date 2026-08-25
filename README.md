@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/Raghav-dot113/leetSolutions/tree/master/0044-wildcard-matching) |
 | [0065-valid-number](https://github.com/Raghav-dot113/leetSolutions/tree/master/0065-valid-number) |
 | [0076-minimum-window-substring](https://github.com/Raghav-dot113/leetSolutions/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/Raghav-dot113/leetSolutions/tree/master/0079-word-search) |
 | [0392-is-subsequence](https://github.com/Raghav-dot113/leetSolutions/tree/master/0392-is-subsequence) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Raghav-dot113/leetSolutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Raghav-dot113/leetSolutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Raghav-dot113/leetSolutions/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/Raghav-dot113/leetSolutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Raghav-dot113/leetSolutions/tree/master/0064-minimum-path-sum) |
+| [0079-word-search](https://github.com/Raghav-dot113/leetSolutions/tree/master/0079-word-search) |
 | [0213-house-robber-ii](https://github.com/Raghav-dot113/leetSolutions/tree/master/0213-house-robber-ii) |
 | [0268-missing-number](https://github.com/Raghav-dot113/leetSolutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Raghav-dot113/leetSolutions/tree/master/0287-find-the-duplicate-number) |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Raghav-dot113/leetSolutions/tree/master/0048-rotate-image) |
 | [0063-unique-paths-ii](https://github.com/Raghav-dot113/leetSolutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Raghav-dot113/leetSolutions/tree/master/0064-minimum-path-sum) |
+| [0079-word-search](https://github.com/Raghav-dot113/leetSolutions/tree/master/0079-word-search) |
 | [0766-toeplitz-matrix](https://github.com/Raghav-dot113/leetSolutions/tree/master/0766-toeplitz-matrix) |
 | [1260-shift-2d-grid](https://github.com/Raghav-dot113/leetSolutions/tree/master/1260-shift-2d-grid) |
 | [1672-richest-customer-wealth](https://github.com/Raghav-dot113/leetSolutions/tree/master/1672-richest-customer-wealth) |
@@ -200,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Raghav-dot113/leetSolutions/tree/master/0022-generate-parentheses) |
 | [0040-combination-sum-ii](https://github.com/Raghav-dot113/leetSolutions/tree/master/0040-combination-sum-ii) |
 | [0077-combinations](https://github.com/Raghav-dot113/leetSolutions/tree/master/0077-combinations) |
+| [0079-word-search](https://github.com/Raghav-dot113/leetSolutions/tree/master/0079-word-search) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -212,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Raghav-dot113/leetSolutions/tree/master/0079-word-search) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Raghav-dot113/leetSolutions/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Graph Theory
 |  |
