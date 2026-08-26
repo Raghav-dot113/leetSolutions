@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Raghav-dot113/leetSolutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Raghav-dot113/leetSolutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Raghav-dot113/leetSolutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Raghav-dot113/leetSolutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Raghav-dot113/leetSolutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Raghav-dot113/leetSolutions/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Dynamic Programming
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/Raghav-dot113/leetSolutions/tree/master/0076-minimum-window-substring) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Raghav-dot113/leetSolutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Raghav-dot113/leetSolutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Raghav-dot113/leetSolutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Pigeonhole Principle
