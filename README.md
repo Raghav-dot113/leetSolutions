@@ -211,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0133-clone-graph](https://github.com/Raghav-dot113/leetSolutions/tree/master/0133-clone-graph) |
 | [0322-coin-change](https://github.com/Raghav-dot113/leetSolutions/tree/master/0322-coin-change) |
+| [0547-number-of-provinces](https://github.com/Raghav-dot113/leetSolutions/tree/master/0547-number-of-provinces) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Raghav-dot113/leetSolutions/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Divide and Conquer
 |  |
@@ -221,11 +222,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/Raghav-dot113/leetSolutions/tree/master/0079-word-search) |
 | [0133-clone-graph](https://github.com/Raghav-dot113/leetSolutions/tree/master/0133-clone-graph) |
+| [0547-number-of-provinces](https://github.com/Raghav-dot113/leetSolutions/tree/master/0547-number-of-provinces) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Raghav-dot113/leetSolutions/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Graph Theory
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/Raghav-dot113/leetSolutions/tree/master/0133-clone-graph) |
+| [0547-number-of-provinces](https://github.com/Raghav-dot113/leetSolutions/tree/master/0547-number-of-provinces) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Raghav-dot113/leetSolutions/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Heap (Priority Queue)
 |  |
@@ -271,4 +274,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1563-stone-game-v](https://github.com/Raghav-dot113/leetSolutions/tree/master/1563-stone-game-v) |
+## Union-Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/Raghav-dot113/leetSolutions/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
