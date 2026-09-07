@@ -1,12 +1,11 @@
 class Solution {
 public:
-    void DFSH(int u,vector<bool> &vis,vector<vector<int>> adj){
-        // cout<<u<<" ";
+    void DFSH(int u,vector<bool> &vis,vector<vector<int>>& adj){
         vis[u] = true;
+
         for(int v : adj[u-1]){
             if(!vis[v]) DFSH(v,vis,adj);
         }
-        
     }
 
     int findCircleNum(vector<vector<int>>& isConnected) {
