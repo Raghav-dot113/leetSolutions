@@ -1,32 +1,21 @@
 class Solution {
 public:
     vector<vector<string>> groupAnagrams(vector<string>& strs) {
+        vector<vector<string>> res;
 
-        unordered_map<string, vector<string>> mp;
+        map<string, vector<string>> map;
 
-        for (string str : strs) {
+        for(string str: strs){
+            string value = str;
 
-            vector<int> freq(26, 0);
+            sort(str.begin(), str.end());
 
-            for (char ch : str) {
-                freq[ch - 'a']++;
-            }
-
-            string key = "";
-
-            for (int i = 0; i < 26; i++) {
-                key += to_string(freq[i]) + "a";
-            }
-
-            mp[key].push_back(str);
+            map[str].push_back(value);
         }
-
-        vector<vector<string>> ans;
-
-        for (auto &it : mp) {
-            ans.push_back(it.second);
+        
+        for(auto [key, value]: map){
+            res.push_back(move(value));
         }
-
-        return ans;
+        return res;
     }
 };
