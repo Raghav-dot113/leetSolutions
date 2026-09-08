@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Raghav-dot113/leetSolutions/tree/master/0022-generate-parentheses) |
 | [0044-wildcard-matching](https://github.com/Raghav-dot113/leetSolutions/tree/master/0044-wildcard-matching) |
+| [0049-group-anagrams](https://github.com/Raghav-dot113/leetSolutions/tree/master/0049-group-anagrams) |
 | [0065-valid-number](https://github.com/Raghav-dot113/leetSolutions/tree/master/0065-valid-number) |
 | [0076-minimum-window-substring](https://github.com/Raghav-dot113/leetSolutions/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/Raghav-dot113/leetSolutions/tree/master/0079-word-search) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/Raghav-dot113/leetSolutions/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/Raghav-dot113/leetSolutions/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/Raghav-dot113/leetSolutions/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/Raghav-dot113/leetSolutions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Raghav-dot113/leetSolutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Raghav-dot113/leetSolutions/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/Raghav-dot113/leetSolutions/tree/master/0063-unique-paths-ii) |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Raghav-dot113/leetSolutions/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Raghav-dot113/leetSolutions/tree/master/0076-minimum-window-substring) |
 | [0133-clone-graph](https://github.com/Raghav-dot113/leetSolutions/tree/master/0133-clone-graph) |
 | [0268-missing-number](https://github.com/Raghav-dot113/leetSolutions/tree/master/0268-missing-number) |
@@ -192,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Raghav-dot113/leetSolutions/tree/master/0049-group-anagrams) |
 | [0147-insertion-sort-list](https://github.com/Raghav-dot113/leetSolutions/tree/master/0147-insertion-sort-list) |
 | [0268-missing-number](https://github.com/Raghav-dot113/leetSolutions/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Raghav-dot113/leetSolutions/tree/master/0628-maximum-product-of-three-numbers) |
