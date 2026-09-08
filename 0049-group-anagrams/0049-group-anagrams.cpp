@@ -15,7 +15,7 @@ public:
             string key = "";
 
             for (int i = 0; i < 26; i++) {
-                key += to_string(freq[i]) + "#";
+                key += to_string(freq[i]) + "a";
             }
 
             mp[key].push_back(str);
