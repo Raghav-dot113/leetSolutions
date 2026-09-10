@@ -230,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Raghav-dot113/leetSolutions/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Raghav-dot113/leetSolutions/tree/master/0684-redundant-connection) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Raghav-dot113/leetSolutions/tree/master/0787-cheapest-flights-within-k-stops) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Raghav-dot113/leetSolutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Graph Theory
 |  |
 | ------- |
@@ -286,4 +287,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0547-number-of-provinces](https://github.com/Raghav-dot113/leetSolutions/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Raghav-dot113/leetSolutions/tree/master/0684-redundant-connection) |
+## Tree
+|  |
+| ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Raghav-dot113/leetSolutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Binary Tree
+|  |
+| ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Raghav-dot113/leetSolutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 <!---LeetCode Topics End-->
