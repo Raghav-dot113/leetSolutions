@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Raghav-dot113/leetSolutions/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Raghav-dot113/leetSolutions/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/Raghav-dot113/leetSolutions/tree/master/0079-word-search) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Raghav-dot113/leetSolutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0213-house-robber-ii](https://github.com/Raghav-dot113/leetSolutions/tree/master/0213-house-robber-ii) |
 | [0268-missing-number](https://github.com/Raghav-dot113/leetSolutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Raghav-dot113/leetSolutions/tree/master/0287-find-the-duplicate-number) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Raghav-dot113/leetSolutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0086-partition-list](https://github.com/Raghav-dot113/leetSolutions/tree/master/0086-partition-list) |
 | [0287-find-the-duplicate-number](https://github.com/Raghav-dot113/leetSolutions/tree/master/0287-find-the-duplicate-number) |
 | [0392-is-subsequence](https://github.com/Raghav-dot113/leetSolutions/tree/master/0392-is-subsequence) |
