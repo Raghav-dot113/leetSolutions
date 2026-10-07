@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Raghav-dot113/leetSolutions/tree/master/0287-find-the-duplicate-number) |
 | [0322-coin-change](https://github.com/Raghav-dot113/leetSolutions/tree/master/0322-coin-change) |
 | [0496-next-greater-element-i](https://github.com/Raghav-dot113/leetSolutions/tree/master/0496-next-greater-element-i) |
+| [0498-diagonal-traverse](https://github.com/Raghav-dot113/leetSolutions/tree/master/0498-diagonal-traverse) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Raghav-dot113/leetSolutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0739-daily-temperatures](https://github.com/Raghav-dot113/leetSolutions/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/Raghav-dot113/leetSolutions/tree/master/0746-min-cost-climbing-stairs) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Raghav-dot113/leetSolutions/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Raghav-dot113/leetSolutions/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/Raghav-dot113/leetSolutions/tree/master/0079-word-search) |
+| [0498-diagonal-traverse](https://github.com/Raghav-dot113/leetSolutions/tree/master/0498-diagonal-traverse) |
 | [0766-toeplitz-matrix](https://github.com/Raghav-dot113/leetSolutions/tree/master/0766-toeplitz-matrix) |
 | [1260-shift-2d-grid](https://github.com/Raghav-dot113/leetSolutions/tree/master/1260-shift-2d-grid) |
 | [1672-richest-customer-wealth](https://github.com/Raghav-dot113/leetSolutions/tree/master/1672-richest-customer-wealth) |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/Raghav-dot113/leetSolutions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Raghav-dot113/leetSolutions/tree/master/0059-spiral-matrix-ii) |
+| [0498-diagonal-traverse](https://github.com/Raghav-dot113/leetSolutions/tree/master/0498-diagonal-traverse) |
 | [1260-shift-2d-grid](https://github.com/Raghav-dot113/leetSolutions/tree/master/1260-shift-2d-grid) |
 | [1920-build-array-from-permutation](https://github.com/Raghav-dot113/leetSolutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Raghav-dot113/leetSolutions/tree/master/1929-concatenation-of-array) |
