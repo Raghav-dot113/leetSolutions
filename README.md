@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Raghav-dot113/leetSolutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Raghav-dot113/leetSolutions/tree/master/0287-find-the-duplicate-number) |
 | [0322-coin-change](https://github.com/Raghav-dot113/leetSolutions/tree/master/0322-coin-change) |
+| [0496-next-greater-element-i](https://github.com/Raghav-dot113/leetSolutions/tree/master/0496-next-greater-element-i) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Raghav-dot113/leetSolutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0746-min-cost-climbing-stairs](https://github.com/Raghav-dot113/leetSolutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0766-toeplitz-matrix](https://github.com/Raghav-dot113/leetSolutions/tree/master/0766-toeplitz-matrix) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Raghav-dot113/leetSolutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0155-min-stack](https://github.com/Raghav-dot113/leetSolutions/tree/master/0155-min-stack) |
+| [0496-next-greater-element-i](https://github.com/Raghav-dot113/leetSolutions/tree/master/0496-next-greater-element-i) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Raghav-dot113/leetSolutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Design
 |  |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/Raghav-dot113/leetSolutions/tree/master/0076-minimum-window-substring) |
 | [0133-clone-graph](https://github.com/Raghav-dot113/leetSolutions/tree/master/0133-clone-graph) |
 | [0268-missing-number](https://github.com/Raghav-dot113/leetSolutions/tree/master/0268-missing-number) |
+| [0496-next-greater-element-i](https://github.com/Raghav-dot113/leetSolutions/tree/master/0496-next-greater-element-i) |
 | [1512-number-of-good-pairs](https://github.com/Raghav-dot113/leetSolutions/tree/master/1512-number-of-good-pairs) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Raghav-dot113/leetSolutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Raghav-dot113/leetSolutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -258,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Raghav-dot113/leetSolutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0496-next-greater-element-i](https://github.com/Raghav-dot113/leetSolutions/tree/master/0496-next-greater-element-i) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Raghav-dot113/leetSolutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Linked List
 |  |
