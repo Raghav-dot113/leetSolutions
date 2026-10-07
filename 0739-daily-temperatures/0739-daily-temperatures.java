@@ -10,10 +10,7 @@ class Solution {
             }
             s.push(i);
         }
-        while(!s.empty()){
-            ans[s.peek()] = 0;
-            s.pop();
-        }
+        
         return ans;
     }
 }
