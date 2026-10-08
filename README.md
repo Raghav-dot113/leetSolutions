@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Raghav-dot113/leetSolutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0496-next-greater-element-i](https://github.com/Raghav-dot113/leetSolutions/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/Raghav-dot113/leetSolutions/tree/master/0498-diagonal-traverse) |
+| [0503-next-greater-element-ii](https://github.com/Raghav-dot113/leetSolutions/tree/master/0503-next-greater-element-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Raghav-dot113/leetSolutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Raghav-dot113/leetSolutions/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0739-daily-temperatures](https://github.com/Raghav-dot113/leetSolutions/tree/master/0739-daily-temperatures) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/Raghav-dot113/leetSolutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0155-min-stack](https://github.com/Raghav-dot113/leetSolutions/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/Raghav-dot113/leetSolutions/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Raghav-dot113/leetSolutions/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Raghav-dot113/leetSolutions/tree/master/0739-daily-temperatures) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Raghav-dot113/leetSolutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Design
@@ -290,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Raghav-dot113/leetSolutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/Raghav-dot113/leetSolutions/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Raghav-dot113/leetSolutions/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Raghav-dot113/leetSolutions/tree/master/0739-daily-temperatures) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Raghav-dot113/leetSolutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Linked List
