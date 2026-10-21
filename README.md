@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/Raghav-dot113/leetSolutions/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/Raghav-dot113/leetSolutions/tree/master/0049-group-anagrams) |
 | [0065-valid-number](https://github.com/Raghav-dot113/leetSolutions/tree/master/0065-valid-number) |
+| [0068-text-justification](https://github.com/Raghav-dot113/leetSolutions/tree/master/0068-text-justification) |
 | [0076-minimum-window-substring](https://github.com/Raghav-dot113/leetSolutions/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/Raghav-dot113/leetSolutions/tree/master/0079-word-search) |
 | [0392-is-subsequence](https://github.com/Raghav-dot113/leetSolutions/tree/master/0392-is-subsequence) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/Raghav-dot113/leetSolutions/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/Raghav-dot113/leetSolutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Raghav-dot113/leetSolutions/tree/master/0064-minimum-path-sum) |
+| [0068-text-justification](https://github.com/Raghav-dot113/leetSolutions/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/Raghav-dot113/leetSolutions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Raghav-dot113/leetSolutions/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/Raghav-dot113/leetSolutions/tree/master/0079-word-search) |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/Raghav-dot113/leetSolutions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Raghav-dot113/leetSolutions/tree/master/0059-spiral-matrix-ii) |
+| [0068-text-justification](https://github.com/Raghav-dot113/leetSolutions/tree/master/0068-text-justification) |
 | [0498-diagonal-traverse](https://github.com/Raghav-dot113/leetSolutions/tree/master/0498-diagonal-traverse) |
 | [1260-shift-2d-grid](https://github.com/Raghav-dot113/leetSolutions/tree/master/1260-shift-2d-grid) |
 | [1920-build-array-from-permutation](https://github.com/Raghav-dot113/leetSolutions/tree/master/1920-build-array-from-permutation) |
