@@ -8,7 +8,7 @@ public:
         for (int i = 0; i <= n; i++) {
             int currHeight = (i == n) ? 0 : arr[i];
 
-            while (!st.empty() && currHeight < arr[st.top()]) {
+            while(!st.empty() && currHeight < arr[st.top()]) {
                 int height = arr[st.top()];
                 st.pop();
 
